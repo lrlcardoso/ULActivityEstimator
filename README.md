@@ -1,6 +1,6 @@
-# RehabTrack_Workflow – Upper Limb Activity Estimator
+# RehabTrack Workflow – Upper Limb Activity Estimator
 
-This is part of the [RehabTrack_Workflow](https://github.com/lrlcardoso/RehabTrack_Workflow): a modular pipeline for **tracking and analysing physiotherapy movements**, using video and IMU data.  
+This is part of the [RehabTrack Workflow](https://github.com/lrlcardoso/RehabTrack_Workflow): a modular pipeline for **tracking and analysing physiotherapy movements**, using video and IMU data.  
 This module estimates **upper limb activity** from binary “use” signals and synchronized IMU data, producing quantitative measures such as activity duration, intensity levels, and number of repetitions for each limb.
 
 ---

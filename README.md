@@ -75,15 +75,6 @@ main
 
 ---
 
-## 📖 Citation
-
-If you use this module, please cite:
-```
-Cardoso, L. R. L. (2025). RehabTrack Workflow: A Modular Hybrid Video–IMU Pipeline for Analysing Upper-Limb Physiotherapy Data (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.16756215
-```
-
----
-
 ## 📝 License
 
 Code: [MIT License](LICENSE)  
